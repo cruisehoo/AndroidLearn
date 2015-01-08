@@ -127,3 +127,9 @@ if __name__ == '__main__':
 | 手机        |   $12   |   12   |
 | 管线        |    $1    |  234  |
 
+
+```seq
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
