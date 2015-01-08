@@ -1,6 +1,3 @@
-AndroidLearn
-============
-
 # 欢迎使用 Cmd - 在线 Markdown 编辑阅读器
 
 ------
@@ -122,4 +119,11 @@ if __name__ == '__main__':
 [3]: http://weibo.com/ghosert
 [4]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
 
+### 绘制表格
+
+| 项目        | 价格   |  数量  |
+| --------   | -----:  | :----:  |
+| 计算机     | $1600 |   5     |
+| 手机        |   $12   |   12   |
+| 管线        |    $1    |  234  |
 
