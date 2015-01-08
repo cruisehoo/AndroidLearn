@@ -109,6 +109,7 @@ if __name__ == '__main__':
 作者 [@ghosert][3]     
 于 2014 年 03月 07日    
 上海
+哈哈哈[我是来玩等得][5]
 
 [^LaTeX]: 支持 **LaTeX** 编辑显示支持，例如：$\sum_{i=1}^n a_i=0$， 访问 [MathJax][4] 参考更多使用方法。
 
@@ -118,6 +119,7 @@ if __name__ == '__main__':
 [2]: https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-高阶语法手册
 [3]: http://weibo.com/ghosert
 [4]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
+[5]: 测试测试
 
 ### 绘制表格
 
